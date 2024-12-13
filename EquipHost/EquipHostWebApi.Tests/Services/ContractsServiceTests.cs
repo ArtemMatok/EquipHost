@@ -47,16 +47,13 @@ namespace EquipHostWebApi.Tests.Services
         [Fact]
         public async Task CreateContractAsync_FacilityNotFound_ReturnsFailure()
         {
-            // Arrange
             var contractDto = new CreateContractDto { FacilityCode = "InvalidFacilityCode", EquipmentCode = "EQ001", Quantity = 5 };
             _facilityRepositoryMock
                 .Setup(repo => repo.FacilityExistAsync(contractDto.FacilityCode))
                 .ReturnsAsync(false);
 
-            // Act
             var result = await _contractService.CreateContractAsync(contractDto);
 
-            // Assert
             result.IsSuccess.Should().BeFalse();
             result.ErrorMessage.Should().Be("Facility wasn`t found");
         }
@@ -64,7 +61,6 @@ namespace EquipHostWebApi.Tests.Services
         [Fact]
         public async Task CreateContractAsync_EquipmentTypeNotFound_ReturnsFailure()
         {
-            // Arrange
             var contractDto = new CreateContractDto { FacilityCode = "FAC001", EquipmentCode = "InvalidCode", Quantity = 5 };
             _facilityRepositoryMock
                 .Setup(repo => repo.FacilityExistAsync(contractDto.FacilityCode))
@@ -73,10 +69,8 @@ namespace EquipHostWebApi.Tests.Services
                 .Setup(repo => repo.EquipmentTypeExistAsync(contractDto.EquipmentCode))
                 .ReturnsAsync(false);
 
-            // Act
             var result = await _contractService.CreateContractAsync(contractDto);
 
-            // Assert
             result.IsSuccess.Should().BeFalse();
             result.ErrorMessage.Should().Be("Equipment type wasn`t found");
         }
@@ -84,7 +78,6 @@ namespace EquipHostWebApi.Tests.Services
         [Fact]
         public async Task CreateContractAsync_InsufficientArea_ReturnsFailure()
         {
-            // Arrange
             var contractDto = new CreateContractDto { FacilityCode = "FAC001", EquipmentCode = "EQ001", Quantity = 5 };
             _facilityRepositoryMock
                 .Setup(repo => repo.FacilityExistAsync(contractDto.FacilityCode))
@@ -96,10 +89,8 @@ namespace EquipHostWebApi.Tests.Services
                 .Setup(repo => repo.HasSufficientAreaAsync(contractDto.FacilityCode, contractDto.EquipmentCode, contractDto.Quantity))
                 .ReturnsAsync(Result<bool>.Failure("Insufficient area"));
 
-            // Act
             var result = await _contractService.CreateContractAsync(contractDto);
 
-            // Assert
             result.IsSuccess.Should().BeFalse();
             result.ErrorMessage.Should().Be("Insufficient area");
         }
@@ -107,7 +98,6 @@ namespace EquipHostWebApi.Tests.Services
         [Fact]
         public async Task CreateContractAsync_ValidRequest_ReturnsSuccess()
         {
-            // Arrange
             var contractDto = new CreateContractDto { FacilityCode = "FAC001", EquipmentCode = "EQ001", Quantity = 5 };
             var contract = new Contract();
             _facilityRepositoryMock
@@ -126,7 +116,6 @@ namespace EquipHostWebApi.Tests.Services
                 .Setup(repo => repo.CreateContractAsync(contract))
                 .ReturnsAsync(Result<Contract>.Success(contract));
 
-            // Act
             var result = await _contractService.CreateContractAsync(contractDto);
 
             // Assert
@@ -137,7 +126,6 @@ namespace EquipHostWebApi.Tests.Services
         [Fact]
         public async Task GetContractsAsync_ValidRequest_ReturnsPaginatedResults()
         {
-            // Arrange
             var filter = new ContractFilter { PageNumber = 1, PageSize = 10 };
             var items = new List<Contract>
             {
@@ -154,10 +142,8 @@ namespace EquipHostWebApi.Tests.Services
                 .Setup(mapper => mapper.Map<List<GetContractDto>>(contracts.Items))
                 .Returns(contractsDto);
 
-            // Act
             var result = await _contractService.GetContractsAsync(filter);
 
-            // Assert
             result.Items.Should().BeEquivalentTo(contractsDto);
             result.TotalCount.Should().Be(1);
             result.PageSize.Should().Be(10);

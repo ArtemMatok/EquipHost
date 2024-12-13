@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TestingTask\\EquipHost\\EquipHost\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44F4E717-7DFD-4854-89E1-BACA76F85DD2}|EquipHostWebApi.Infrastructure\\EquipHostWebApi.Infrastructure.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4E717-7DFD-4854-89E1-BACA76F85DD2}|EquipHostWebApi.Infrastructure\\EquipHostWebApi.Infrastructure.csproj|solutionrelative:equiphostwebapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|solutionrelative:equiphostwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|solutionrelative:equiphostwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|solutionrelative:equiphostwebapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69A971A7-856C-42B3-8DAA-7FE87416E169}|EquipHostWebApi\\EquipHostWebApi.csproj|solutionrelative:equiphostwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E5DFD22-495F-46C0-B3A4-7EB485A8C272}|EquipHostWebApi.Application\\EquipHostWebApi.Application.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi.application\\responses\\pageresultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5DFD22-495F-46C0-B3A4-7EB485A8C272}|EquipHostWebApi.Application\\EquipHostWebApi.Application.csproj|solutionrelative:equiphostwebapi.application\\responses\\pageresultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E5DFD22-495F-46C0-B3A4-7EB485A8C272}|EquipHostWebApi.Application\\EquipHostWebApi.Application.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi.application\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5DFD22-495F-46C0-B3A4-7EB485A8C272}|EquipHostWebApi.Application\\EquipHostWebApi.Application.csproj|solutionrelative:equiphostwebapi.application\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F4E717-7DFD-4854-89E1-BACA76F85DD2}|EquipHostWebApi.Infrastructure\\EquipHostWebApi.Infrastructure.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F4E717-7DFD-4854-89E1-BACA76F85DD2}|EquipHostWebApi.Infrastructure\\EquipHostWebApi.Infrastructure.csproj|solutionrelative:equiphostwebapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E5DFD22-495F-46C0-B3A4-7EB485A8C272}|EquipHostWebApi.Application\\EquipHostWebApi.Application.csproj|d:\\testingtask\\equiphost\\equiphost\\equiphostwebapi.application\\interfaces\\ifacilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ContractService.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\Services\\ContractService.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Application\\Services\\ContractService.cs",
@@ -183,20 +183,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\Program.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi\\Program.cs",
-              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\Program.cs*",
-              "RelativeToolTip": "EquipHostWebApi\\Program.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEEAAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\Program.cs",
+              "RelativeToolTip": "EquipHostWebApi\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:43:31.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BackgroundTaskService.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Background\\BackgroundTaskService.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Infrastructure\\Background\\BackgroundTaskService.cs",
@@ -209,20 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateContractDtoValidator.cs",
-              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
-              "RelativeDocumentMoniker": "EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
-              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
-              "RelativeToolTip": "EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAawBAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:20:47.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ContractsServiceTests.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Tests\\Services\\ContractsServiceTests.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Tests\\Services\\ContractsServiceTests.cs",
@@ -235,20 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContractMapper.cs",
-              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\ContractMapper.cs",
-              "RelativeDocumentMoniker": "EquipHostWebApi.Application\\ContractMapper.cs",
-              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\ContractMapper.cs",
-              "RelativeToolTip": "EquipHostWebApi.Application\\ContractMapper.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:54:23.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IBackgroundTaskQueue.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\Interfaces\\IBackgroundTaskQueue.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Application\\Interfaces\\IBackgroundTaskQueue.cs",
@@ -261,7 +235,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EquipHostWebApi\\appsettings.json",
+              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\appsettings.json",
+              "RelativeToolTip": "EquipHostWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T14:44:43.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:04:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateContractDtoValidator.cs",
+              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
+              "RelativeDocumentMoniker": "EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
+              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
+              "RelativeToolTip": "EquipHostWebApi.Application\\CreateContractDtoValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:20:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContractMapper.cs",
+              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\ContractMapper.cs",
+              "RelativeDocumentMoniker": "EquipHostWebApi.Application\\ContractMapper.cs",
+              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\ContractMapper.cs",
+              "RelativeToolTip": "EquipHostWebApi.Application\\ContractMapper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:54:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BackgroundTaskQueue.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Background\\BackgroundTaskQueue.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Infrastructure\\Background\\BackgroundTaskQueue.cs",
@@ -274,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ContractFilter.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\ContractFilter.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Application\\ContractFilter.cs",
@@ -287,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ApiKeyMiddleware.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi\\Middleware\\ApiKeyMiddleware.cs",
@@ -300,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FacilityRepository.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Data\\FacilityRepository.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Infrastructure\\Data\\FacilityRepository.cs",
@@ -313,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ContractsController.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\Controllers\\ContractsController.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi\\Controllers\\ContractsController.cs",
@@ -326,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PageResultResponse.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\Responses\\PageResultResponse.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Application\\Responses\\PageResultResponse.cs",
@@ -335,32 +361,6 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAswBMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T21:45:08.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EquipHostWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:04:47.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "EquipHostWebApi\\appsettings.json",
-              "ToolTip": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi\\appsettings.json",
-              "RelativeToolTip": "EquipHostWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T14:44:43.603Z",
               "EditorCaption": ""
             },
             {
@@ -391,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\TestingTask\\EquipHost\\EquipHost\\EquipHostWebApi.Application\\Responses\\ApiResponse.cs",
               "RelativeDocumentMoniker": "EquipHostWebApi.Application\\Responses\\ApiResponse.cs",
