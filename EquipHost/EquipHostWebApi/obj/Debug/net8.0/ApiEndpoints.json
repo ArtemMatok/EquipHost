@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "EquipHostWebApi.Controllers.ContractsController",
+    "Method": "CreateContract",
+    "RelativePath": "api/Contracts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contractDto",
+        "Type": "EquipHostWebApi.Application.DTOs.CreateContractDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipHostWebApi.Controllers.ContractsController",
+    "Method": "GetContracts",
+    "RelativePath": "api/Contracts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
