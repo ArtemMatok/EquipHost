@@ -47,6 +47,15 @@ namespace EquipHostWebApi.Infrastructure.Migrations
                     b.HasIndex("FacilityCode");
 
                     b.ToTable("Contracts");
+
+                    b.HasData(
+                        new
+                        {
+                            ContractId = 1,
+                            EquipmentCode = "E002",
+                            FacilityCode = "F001",
+                            Quantity = 2
+                        });
                 });
 
             modelBuilder.Entity("EquipHostWebApi.Domain.Entities.EquipmentType", b =>

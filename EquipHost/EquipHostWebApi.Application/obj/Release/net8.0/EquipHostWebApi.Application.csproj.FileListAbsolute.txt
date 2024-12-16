@@ -1,0 +1,16 @@
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\bin\Release\net8.0\EquipHostWebApi.Application.deps.json
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\bin\Release\net8.0\EquipHostWebApi.Application.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\bin\Release\net8.0\EquipHostWebApi.Application.pdb
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\bin\Release\net8.0\EquipHostWebApi.Domain.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\bin\Release\net8.0\EquipHostWebApi.Domain.pdb
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.csproj.AssemblyReference.cache
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.AssemblyInfoInputs.cache
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.AssemblyInfo.cs
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.csproj.CoreCompileInputs.cache
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.sourcelink.json
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHos.3C8E1BB8.Up2Date
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\refint\EquipHostWebApi.Application.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\EquipHostWebApi.Application.pdb
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Application\obj\Release\net8.0\ref\EquipHostWebApi.Application.dll

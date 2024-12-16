@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Kx1TYIVdLwfbl4LSrC2keduZTklosZ1ov1NrQgLtX5A=",
+  "Source": "EquipHostWebApi",
+  "BasePath": "_content/EquipHostWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

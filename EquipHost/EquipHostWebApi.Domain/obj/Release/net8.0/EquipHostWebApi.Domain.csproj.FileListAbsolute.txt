@@ -1,0 +1,12 @@
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\bin\Release\net8.0\EquipHostWebApi.Domain.deps.json
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\bin\Release\net8.0\EquipHostWebApi.Domain.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\bin\Release\net8.0\EquipHostWebApi.Domain.pdb
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.AssemblyInfoInputs.cache
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.AssemblyInfo.cs
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.csproj.CoreCompileInputs.cache
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.sourcelink.json
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\refint\EquipHostWebApi.Domain.dll
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\EquipHostWebApi.Domain.pdb
+D:\TestingTask\EquipHost\EquipHost\EquipHostWebApi.Domain\obj\Release\net8.0\ref\EquipHostWebApi.Domain.dll
